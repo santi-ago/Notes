@@ -1,4 +1,5 @@
 # Directory
 
-- [Virtual enviroments](Virtualenv)
-- [PyTorch](Pytorch)
+## Python
+- [Virtual enviroments](Python/Virtualenv)
+- [PyTorch](Python/Pytorch)

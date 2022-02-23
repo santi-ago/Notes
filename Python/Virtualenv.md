@@ -68,6 +68,6 @@ To deactivate an active environment, use
 
     conda install -n yourenvname packages
 
-    conda install -n PDIenv numpy matplotlib opencv-python pandas pytorch torchvision torchaudio cpuonly -c pytorch
+    conda install -n PDIenv numpy matplotlib opencv-python pandas scikit-learn seaborn pytorch torchvision torchaudio cpuonly -c pytorch
 
  
